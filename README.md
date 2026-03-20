@@ -1,2 +1,5 @@
 # Ejemplo de diagrama con vista previa
-![My Diagram](test-diagram.drawio.svg)
+
+![My Diagram](/assets/test-diagram.drawio.svg)
+
+![My Diagram](/assets/text-image.png)
